@@ -1,0 +1,9 @@
+
+
+
+-----kirim data php ke email
+
+
+1. kirim input data dari php ke masuk ke email
+
+2. menggunakan phpmailer
